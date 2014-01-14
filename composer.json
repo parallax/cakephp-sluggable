@@ -1,15 +1,14 @@
-
 {
-    "name": "snapshotmedia/cakephp-sluggable",
+    "name": "parallax/cakephp-sluggable",
     "description": "CakePHP Sluggable Plugin",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "sluggable"],
-    "homepage": "https://github.com/snapshotmedia/cakephp-sluggable",
+    "homepage": "https://github.com/parallax/cakephp-sluggable",
     "license": "MIT",
     "authors": [
         {
-            "name": "Snapshot Media",
-            "homepage": "https://github.com/snapshotmedia",
+            "name": "Parallax",
+            "homepage": "https://github.com/parallax",
             "role": "Author"
         }
     ],
